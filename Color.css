@@ -1,0 +1,22 @@
+/* Color By Name */
+#Main-Heading{
+    color: blueviolet;
+}
+
+/* Color By Hexadecimal */
+p{
+    background-color: #c65252;
+}
+
+/* Color By Hsl */
+.Second-Heading{
+    color: hsl(97, 48%, 50%);
+}
+/* Color By rgb */
+ ol,li{
+    background-color: rgb(227, 182, 127);
+}
+/* Color By rgba */
+.Main-div{
+    background-color: rgba(204, 161, 245, 0.6);
+}

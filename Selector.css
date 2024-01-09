@@ -1,0 +1,33 @@
+/* Universal Selector */
+*{
+    color: gray;
+    background-color: lightgray;
+}
+
+/* Class Selector */
+.Intro-Paragraph{
+    color: goldenrod;
+    background-color: rgb(54, 51, 51);
+}
+
+/* ID Selector */
+#Main-head{
+    color: rgb(54, 51, 51);
+    background-color: goldenrod;
+}
+
+/* Class Selector */
+.nav-link{
+    color: rgb(47, 104, 227);
+}
+
+/* Child Selector */
+.nav-link > a{
+    color: green;
+    text-decoration: none;
+} 
+
+/* Adjacent Selector */
+ .footer p{
+    background-color: azure;
+}
